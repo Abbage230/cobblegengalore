@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "R": {
+      "tag": "c:ingots/iron"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "G G",
+    "RRR"
+  ],
+  "result": {
+    "id": "cobblegengalore:block_gen_iron"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "values": [
+    "cobblegengalore:block_gen_copper",
+    "cobblegengalore:block_gen_diamond",
+    "cobblegengalore:block_gen_emerald",
+    "cobblegengalore:block_gen_gold",
+    "cobblegengalore:block_gen_iron",
+    "cobblegengalore:block_gen_netherite",
+    "cobblegengalore:block_gen_stone"
+  ]
+}
